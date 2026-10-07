@@ -1,0 +1,7 @@
+{
+  "name": "campus-assistant",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server/index.js",
+    "eval": "node server/eval.js" }
+}

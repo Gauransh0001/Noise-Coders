@@ -1,0 +1,3 @@
+.env
+server/events.jsonl
+node_modules

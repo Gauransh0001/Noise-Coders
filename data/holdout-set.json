@@ -1,0 +1,322 @@
+[
+ {
+  "text": "Internet is super slow in the hostel",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "I keep getting kicked off the campus connection every few minutes",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "Forgot the login for the student portal",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "How can I read journal articles from my room off campus",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "Need Microsoft Office on my laptop",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "Locked out after typing the wrong password three times",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "My print job is stuck in the queue",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "Outlook isn't syncing my inbox",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "Where do I reserve a PC in the lab for Friday",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "Zoom keeps crashing on the lab computers",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "I never got the verification mail for my university account",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "Can't sign in to Moodle",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "Need a MATLAB licence for my project",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "The two-factor code never arrives on my phone",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "How to change my portal password",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "Wireless keeps asking me to log in again and again",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "My student mailbox is full",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "Which software do I need to install for the data science course",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "cant connect 2 wifi in library pls help",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "printer says offline when I try to print from my laptop",
+  "expectedDomain": "it"
+ },
+ {
+  "text": "Lost my ID, need a new one",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "Need a certificate showing I'm enrolled for my visa application",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "I'm unwell and need a few days off, what's the process",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "How do I get my official academic records sent to another university",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "I moved house, where do I update my details",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "Applying for paternity leave next month",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "My salary slip for September is missing",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "Who do I tell about a new emergency contact number",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "Need a letter confirming my student status for a bank account",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "Process for taking time off when I have a fever",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "Request for an attested copy of my grades",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "My college ID is cracked and doesn't scan",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "Need to correct the spelling of my name in the records",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "Change my phone number on file",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "I want to apply for casual leave next Friday",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "Where is the payroll office",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "How can I get proof of enrolment",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "Update my parents' contact in the system",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "need transcript for my masters application",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "how many days of sick leave am I allowed",
+  "expectedDomain": "hr"
+ },
+ {
+  "text": "When do I need to pay for this semester",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "Can I split the tuition into parts",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "I want my money back after dropping out of the course",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "Apply for financial help because of my family's income",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "I paid late, can they waive the penalty",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "Need a copy of my payment proof",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "Hostel dues payment link",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "My bank wants a fee structure letter for my education loan",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "How to get a merit scholarship",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "What happens if I miss the last date for paying fees",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "My payment went through but still shows pending",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "Where can I download the fee challan",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "I overpaid by mistake, how do I get the excess back",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "Last date for paying hostel charges",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "Need an extension on fees because my loan hasn't been disbursed",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "What is the total cost of the course this year",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "Can I pay semester dues in two installments",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "Is there any fee concession for siblings",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "fee kab bharna hai this term",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "Where do I pay the exam fee",
+  "expectedDomain": "fees"
+ },
+ {
+  "text": "Water is leaking from the ceiling in my room",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "Lights in the corridor have been out for days",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "Where can I park my bike",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "Left my umbrella in the lecture hall",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "The lift is out of order again",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "The fan in my hostel room isn't working",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "My swipe card won't open the dorm door",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "Need a hall for the club meeting on Saturday",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "The bathroom in the hostel is dirty, who cleans it",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "Found a wallet near the cafeteria, where do I hand it in",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "The bed frame in my room is broken",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "AC is dripping water onto my desk",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "Need a car sticker for the campus gate",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "My window won't close properly",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "Reserve the seminar room for a workshop",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "Heater in the study room is dead",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "Missing my backpack, has anyone turned one in",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "The door lock in my room is jammed",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "Water cooler on the second floor is empty",
+  "expectedDomain": "facilities"
+ },
+ {
+  "text": "Bins in the corridor haven't been emptied and it smells",
+  "expectedDomain": "facilities"
+ }
+]
